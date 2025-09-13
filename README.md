@@ -41,7 +41,7 @@ This project aims to solve this by creating an **interactive dashboard** that vi
 * **Language:** Python 
 * **Data Cleaning & Analysis:** Pandas, NumPy
 * **Visualization:** Power BI
-* **Dataset Source:** Zomato Kaggle Dataset 
+* **Dataset Source:** Zomato Kaggle Dataset (https://docs.google.com/spreadsheets/d/1p6E7FaxMCltEk_MCe2_qnCvqVIOUJWz7S-K6Mvl-7xg/edit?usp=sharing)
   
 ---
 
@@ -55,7 +55,7 @@ This project aims to solve this by creating an **interactive dashboard** that vi
 ### 🙌 Acknowledgements
 
 Dataset source: [Kaggle Zomato Dataset](https://www.kaggle.com/datasets) 
-Dataset link: https://drive.google.com/file/d/13JyNjiVsdQ3_Vo0PID45BpPFIOm0K0JA/view?usp=sharing
+Dataset link:https://docs.google.com/spreadsheets/d/1p6E7FaxMCltEk_MCe2_qnCvqVIOUJWz7S-K6Mvl-7xg/edit?usp=sharing
 Thanks to Zomato for inspiring this project.
 
 
