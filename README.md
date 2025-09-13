@@ -54,7 +54,8 @@ This project aims to solve this by creating an **interactive dashboard** that vi
 
 ### 🙌 Acknowledgements
 
-Dataset source: [Kaggle Zomato Dataset](https://www.kaggle.com/datasets)
+Dataset source: [Kaggle Zomato Dataset](https://www.kaggle.com/datasets) 
+Dataset link: https://drive.google.com/file/d/13JyNjiVsdQ3_Vo0PID45BpPFIOm0K0JA/view?usp=sharing
 Thanks to Zomato for inspiring this project.
 
 
